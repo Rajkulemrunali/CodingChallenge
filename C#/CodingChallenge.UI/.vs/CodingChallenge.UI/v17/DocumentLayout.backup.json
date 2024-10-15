@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D90493B-F9C4-4BE4-B37C-0F4549F038FE}|CodingChallenge.UI\\CodingChallenge.UI.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.ui\\codingchallenge.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D90493B-F9C4-4BE4-B37C-0F4549F038FE}|CodingChallenge.UI\\CodingChallenge.UI.csproj|solutionrelative:codingchallenge.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A93E01-18C7-4AA7-86DD-D7C8D20AEB80}|..\\CodingChallenge.Exceptions\\CodingChallenge.Exceptions.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE357B25-FA48-48F0-A7F0-A5D919B84CD6}|..\\CodingChallenge.BusinessLayer\\CodingChallenge.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.businesslayer\\repository\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EFCBD4-BBEE-4322-A9BE-7784CD23EC26}|..\\CodingChallenge.Entity\\CodingChallenge.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EFCBD4-BBEE-4322-A9BE-7784CD23EC26}|..\\CodingChallenge.Entity\\CodingChallenge.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.entity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EFCBD4-BBEE-4322-A9BE-7784CD23EC26}|..\\CodingChallenge.Entity\\CodingChallenge.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EFCBD4-BBEE-4322-A9BE-7784CD23EC26}|..\\CodingChallenge.Entity\\CodingChallenge.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.entity\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EFCBD4-BBEE-4322-A9BE-7784CD23EC26}|..\\CodingChallenge.Entity\\CodingChallenge.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.entity\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE357B25-FA48-48F0-A7F0-A5D919B84CD6}|..\\CodingChallenge.BusinessLayer\\CodingChallenge.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.businesslayer\\repository\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE357B25-FA48-48F0-A7F0-A5D919B84CD6}|..\\CodingChallenge.BusinessLayer\\CodingChallenge.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.businesslayer\\service\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE357B25-FA48-48F0-A7F0-A5D919B84CD6}|..\\CodingChallenge.BusinessLayer\\CodingChallenge.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\github\\codingchallenge\\c#\\codingchallenge.businesslayer\\service\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRUNALI RAJKULE\\AppData\\Local\\Temp\\qcysyzlq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRUNALI RAJKULE\\AppData\\Local\\Temp\\qcysyzlq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRUNALI RAJKULE\\AppData\\Local\\Temp\\qcysyzlq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Exceptions\\PolicyNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.Exceptions\\PolicyNotFoundException.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Exceptions\\PolicyNotFoundException.cs",
+              "RelativeToolTip": "..\\CodingChallenge.Exceptions\\PolicyNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:25:02.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\AppData\\Local\\Temp\\qcysyzlq..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\qcysyzlq..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-15T04:41:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Claim.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.Entity\\Claim.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Claim.cs",
+              "RelativeToolTip": "..\\CodingChallenge.Entity\\Claim.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:03:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Client.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.Entity\\Client.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Client.cs",
+              "RelativeToolTip": "..\\CodingChallenge.Entity\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:03:17.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.Entity\\Payment.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Payment.cs",
+              "RelativeToolTip": "..\\CodingChallenge.Entity\\Payment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:03:13.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\User.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.Entity\\User.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\User.cs",
+              "RelativeToolTip": "..\\CodingChallenge.Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:03:07.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Policy.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.Entity\\Policy.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.Entity\\Policy.cs",
+              "RelativeToolTip": "..\\CodingChallenge.Entity\\Policy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:59:08.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Service\\IPolicyService.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.BusinessLayer\\Service\\IPolicyService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Service\\IPolicyService.cs",
+              "RelativeToolTip": "..\\CodingChallenge.BusinessLayer\\Service\\IPolicyService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:53:27.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Service\\PolicyService.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.BusinessLayer\\Service\\PolicyService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Service\\PolicyService.cs",
+              "RelativeToolTip": "..\\CodingChallenge.BusinessLayer\\Service\\PolicyService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:53:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Repository\\IPolicyRepository.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.BusinessLayer\\Repository\\IPolicyRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Repository\\IPolicyRepository.cs",
+              "RelativeToolTip": "..\\CodingChallenge.BusinessLayer\\Repository\\IPolicyRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:53:19.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Repository\\PolicyRepository.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallenge.BusinessLayer\\Repository\\PolicyRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.BusinessLayer\\Repository\\PolicyRepository.cs",
+              "RelativeToolTip": "..\\CodingChallenge.BusinessLayer\\Repository\\PolicyRepository.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwGMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:53:14.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.UI\\CodingChallenge.UI\\Program.cs",
+              "RelativeDocumentMoniker": "CodingChallenge.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\GitHub\\CodingChallenge\\C#\\CodingChallenge.UI\\CodingChallenge.UI\\Program.cs",
+              "RelativeToolTip": "CodingChallenge.UI\\Program.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAwwL4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:23:02.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

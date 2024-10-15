@@ -1,0 +1,6 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.Entity\bin\Debug\CodingChallenge.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.Entity\bin\Debug\CodingChallenge.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.Entity\obj\Debug\CodingChallenge.Entity.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.Entity\obj\Debug\CodingChallenge.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.Entity\obj\Debug\CodingChallenge.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.Entity\obj\Debug\CodingChallenge.Entity.pdb

@@ -1,0 +1,13 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.BusinessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.BusinessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\obj\Debug\CodingChallenge.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\obj\Debug\CodingChallenge.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\obj\Debug\CodingChallenge.BusinessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\obj\Debug\CodingChallenge.BusinessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\obj\Debug\CodingCh.9701803B.Up2Date
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.DataAccessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.DataAccessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.Exceptions.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.BusinessLayer\bin\Debug\CodingChallenge.Exceptions.pdb

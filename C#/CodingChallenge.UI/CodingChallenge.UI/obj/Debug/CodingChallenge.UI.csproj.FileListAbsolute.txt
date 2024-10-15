@@ -1,0 +1,16 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.UI.exe.config
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.UI.exe
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.UI.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\obj\Debug\CodingChallenge.UI.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\obj\Debug\CodingChallenge.UI.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\obj\Debug\CodingChallenge.UI.exe
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\obj\Debug\CodingChallenge.UI.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.DataAccessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.DataAccessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\obj\Debug\CodingCh.1FB3FCDF.Up2Date
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.BusinessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.Exceptions.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.BusinessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\GitHub\CodingChallenge\C#\CodingChallenge.UI\CodingChallenge.UI\bin\Debug\CodingChallenge.Exceptions.pdb
