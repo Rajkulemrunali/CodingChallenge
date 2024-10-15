@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InsuranceManagementSystem.BusinessLayer",
+    "\\InsuranceManagementSystem.BusinessLayer\\Repository",
+    "\\InsuranceManagementSystem.BusinessLayer\\Service"
+  ],
+  "SelectedNode": "\\InsuranceManagementSystem.BusinessLayer\\Repository\\PolicyRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
